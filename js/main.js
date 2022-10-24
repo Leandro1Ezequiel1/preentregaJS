@@ -1,3 +1,5 @@
+// Condicionales
+
 let usuario1 ="Lea";
 let usuario2 ="Plantera"
 let nombreUsuario =prompt ("Ingrese su nombre de usuario");
@@ -27,4 +29,16 @@ else if(hora >= 12 && hora < 20){
 else{
     alert("Buenas Noches!")
 }
-
+// while
+let Lea=0;
+while( Lea <10){
+    alert("ahora a vale" + Lea);
+    console.log("ejemplo de ciclo");
+    Lea = Lea + 1;
+}
+// for
+for(
+    let Lea = 0; Lea <10; x + 1);
+    {
+        console.log("Ciclo numero" + Lea );
+    }
