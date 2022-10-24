@@ -37,8 +37,6 @@ while( Lea <10){
     Lea = Lea + 1;
 }
 // for
-for(
-    let Lea = 0; Lea <10; x + 1);
-    {
-        console.log("Ciclo numero" + Lea );
-    }
+for (let a = 0; a <10; a = a + 1){
+        console.log("Ciclo numero" + Lea )
+}
